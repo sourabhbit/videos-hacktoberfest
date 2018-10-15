@@ -1,7 +1,6 @@
 # Adding a video
 Adding a video is a very easy task and it will get you a well earned pull request
 # Method
-HACKTOBERFEST IS AWESOME!!!
 
  
 
